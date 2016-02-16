@@ -1,0 +1,1 @@
+This is a simple DAQ for uEye usb camera developed at the MARS Lab, University of Minnesota.
